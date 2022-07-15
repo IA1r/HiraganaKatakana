@@ -1,0 +1,54 @@
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\bin\Debug\net6.0\appsettings.Development.json
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\bin\Debug\net6.0\appsettings.json
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.staticwebassets.runtime.json
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.exe
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.deps.json
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.runtimeconfig.json
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.dll
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.pdb
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.csproj.AssemblyReference.cache
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.AssemblyInfoInputs.cache
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.AssemblyInfo.cs
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.csproj.CoreCompileInputs.cache
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.RazorAssemblyInfo.cache
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.RazorAssemblyInfo.cs
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\staticwebassets.build.json
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\staticwebassets.development.json
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\scopedcss\bundle\HiraganaKatakana2.styles.css
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\scopedcss\projectbundle\HiraganaKatakana2.bundle.scp.css
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.dll
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\refint\HiraganaKatakana2.dll
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.pdb
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.genruntimeconfig.cache
+C:\projects\HiraganaKatakana2\HiraganaKatakana2\obj\Debug\net6.0\ref\HiraganaKatakana2.dll
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\bin\Debug\net6.0\appsettings.Development.json
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\bin\Debug\net6.0\appsettings.json
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.staticwebassets.runtime.json
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.exe
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.deps.json
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.runtimeconfig.json
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.dll
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\bin\Debug\net6.0\HiraganaKatakana2.pdb
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.csproj.AssemblyReference.cache
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.AssemblyInfoInputs.cache
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.AssemblyInfo.cs
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.csproj.CoreCompileInputs.cache
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.RazorAssemblyInfo.cache
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.RazorAssemblyInfo.cs
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\staticwebassets.build.json
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\staticwebassets.development.json
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\scopedcss\bundle\HiraganaKatakana2.styles.css
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\scopedcss\projectbundle\HiraganaKatakana2.bundle.scp.css
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.dll
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\refint\HiraganaKatakana2.dll
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.pdb
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\HiraganaKatakana2.genruntimeconfig.cache
+C:\projects\New folder\HiraganaKatakana\HiraganaKatakana2\obj\Debug\net6.0\ref\HiraganaKatakana2.dll

@@ -1,0 +1,51 @@
+﻿@page "/katakana"
+
+@using HiraganaKatakana2.Data
+
+<div class="block-card">
+    <h1 style="text-align:center">Katakana</h1>
+    <div class="wrapper-card">
+        <div class="box-card a pointer noselect" @onclick="NextIndex">@_syllablesJp[index]</div>
+        <div class="box-card a noselect @(clicks != 2 ? "hidden" : "")">@_syllablesEn[index]</div>
+    </div>
+</div>
+
+
+@code
+{
+    private AlphabetModel _alphabet;
+    private string[] _syllablesJp;
+    private string[] _syllablesEn;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _alphabet = new AlphabetModel();
+        _syllablesJp = _alphabet.Katakana.Keys.ToArray();
+        _syllablesJp.Shuffle();
+
+        _syllablesEn = new string[_syllablesJp.Length];
+
+        for (var i = 0; i < _syllablesJp.Length; i++)
+        {
+            _syllablesEn[i] = _alphabet.Katakana[_syllablesJp[i]];
+        }
+
+    }
+
+    private int index = 0;
+    private int clicks = 1;
+
+    private void NextIndex()
+    {
+
+        if (clicks == 2)
+        {
+            if (index == _syllablesJp.Length - 1)
+                return;
+            index++;
+            clicks = 1;
+        }
+        else
+            clicks++;
+    }
+}

@@ -1,0 +1,36 @@
+﻿@page "/"
+@using HiraganaKatakana2.Data
+
+<PageTitle>Alphabet</PageTitle>
+
+<div style="width:100%; overflow: auto;">
+    <div class="block-h">
+        <h1 style="text-align:center">Hiragana</h1>
+        <div class="wrapper">
+            @foreach(var item in _alphabet.Hiragana)
+            {
+                <div class="box a">@item.Key  @item.Value</div>
+            }
+        </div>
+    </div>
+
+    <div class="block-k">
+        <h1 style="text-align:center">Katakana</h1>
+        <div class="wrapper">
+            @foreach(var item in _alphabet.Katakana)
+            {
+                <div class="box a">@item.Key  @item.Value</div>
+            }
+        </div>
+    </div>
+</div>
+
+
+@code {
+    private AlphabetModel _alphabet;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _alphabet = new AlphabetModel();
+    }
+}
